@@ -1,6 +1,6 @@
 # zdir_ashwin_week_6_midterm
 
-![All About Benz and Bmw !!](benzvsbmw.jpg "A Debate")
+![All About Benz and Bmw !!](images/benzvsbmw.jpg "A Debate")
 
 # A DEBATE ABOUT BENZ VS BMW
 
